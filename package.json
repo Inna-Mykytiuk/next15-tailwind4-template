@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "@tailwindcss/postcss": "^4.0.8",
+    "@trivago/prettier-plugin-sort-imports": "^5.2.2",
     "next": "15.1.7",
     "postcss": "^8.5.3",
     "react": "^19.0.0",
@@ -27,7 +28,8 @@
     "eslint-config-prettier": "^10.0.1",
     "husky": "^9.1.7",
     "lint-staged": "^15.4.3",
-    "prettier": "3.5.2",
+    "prettier": "^3.5.2",
+    "prettier-plugin-tailwindcss": "^0.6.11",
     "typescript": "^5"
   },
   "lint-staged": {
